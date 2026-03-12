@@ -1,0 +1,2 @@
+TRAIN=C:\projetos\vogais_xai_automl\data\train_20260222_141350
+VAL=C:\projetos\vogais_xai_automl\data\val_20260222_141350
