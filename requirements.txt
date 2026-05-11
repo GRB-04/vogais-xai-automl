@@ -1,0 +1,6 @@
+opencv-python
+tensorflow
+keras-tuner
+numpy
+matplotlib
+scikit-learn
