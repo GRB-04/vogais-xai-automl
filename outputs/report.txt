@@ -1,0 +1,25 @@
+VAL_DIR: C:\projetos\vogais_xai_automl\data\val_20260222_141350
+MODEL: C:\projetos\vogais_xai_automl\models\best_model.keras
+
+Accuracy: 1.000000
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           A     1.0000    1.0000    1.0000       220
+           E     1.0000    1.0000    1.0000       224
+           I     1.0000    1.0000    1.0000       234
+           O     1.0000    1.0000    1.0000       224
+           U     1.0000    1.0000    1.0000       220
+
+    accuracy                         1.0000      1122
+   macro avg     1.0000    1.0000    1.0000      1122
+weighted avg     1.0000    1.0000    1.0000      1122
+
+
+Confusion Matrix (rows=true, cols=pred):
+[[220   0   0   0   0]
+ [  0 224   0   0   0]
+ [  0   0 234   0   0]
+ [  0   0   0 224   0]
+ [  0   0   0   0 220]]
